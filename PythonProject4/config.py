@@ -1,5 +1,0 @@
-# config.py
-import os
-
-API_KEY = '444993c98518f7e1a642228eded9691e'
-BOT_TOKEN = '7900447086:AAFfOcdHyxaYBumAG3SSbBEdOCDIEkoQ6Fs'
